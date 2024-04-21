@@ -156,8 +156,6 @@ const init = function () {
   // calling the 5th subscriber function (controlAddRecipeView) ;
   addRecipeView.addHandlerUpload(controlAddRecipeView);
 
-  console.log("working very well .") ;
-  console.log("hello ...") ;
 };
 init();
 
